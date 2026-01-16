@@ -1,5 +1,5 @@
 
-public class Main {
+public class cheMain {
     public static void main(String[] args) {
         System.out.println("Hugo Alberto Ramirez Martinez");
         System.out.println("2D");
